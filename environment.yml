@@ -1,0 +1,5 @@
+name: field
+dependencies:
+  - numpy
+  - pandas
+  - ipyleaflet
