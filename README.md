@@ -1,2 +1,2 @@
-# Baja_binder
-Binder for Baja files
+# baja_binder
+binder for Baja files
